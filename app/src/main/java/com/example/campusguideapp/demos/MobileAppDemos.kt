@@ -19,11 +19,11 @@ import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.unit.dp
-import com.example.p1.campus.CafeteriaDemo
-import com.example.p1.campus.ComputingLabsDemo
-import com.example.p1.campus.LibraryDemo
-import com.example.p1.campus.SportsCentreDemo
-import com.example.p1.campus.StudentSupportDemo
+import com.example.campusguideapp.campus.CafeteriaDemo
+import com.example.campusguideapp.campus.ComputingLabsDemo
+import com.example.campusguideapp.campus.LibraryDemo
+import com.example.campusguideapp.campus.SportsCentreDemo
+import com.example.campusguideapp.campus.StudentSupportDemo
 
 private enum class Demo(val title: String) {
     Library("Library"),
